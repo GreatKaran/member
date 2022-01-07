@@ -1586,5 +1586,4 @@ def main_menu():
         elif b==5:
             BulkAdder()
         elif b==6:
-            main_menu()
-main_menu()
+            Adder()
